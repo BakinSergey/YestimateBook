@@ -1,3 +1,4 @@
 ### YestimateBook
 
-[Таблицы](tables/index.md)
+* [Работа с таблицами](tables/README.md) 
+  * [Таблицы](tables/main.md)
