@@ -1,0 +1,16 @@
+{
+  "root":          "/md_src",
+  "title":         "YestimateBook",
+  "author":        "Yestimate, team",
+  "description":   "project documentation",
+  "plugins":       [
+    "folding-chapters-2",
+    "theme-code",
+    "-sharing"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+      "showlevel": false
+    }
+  }
+}
